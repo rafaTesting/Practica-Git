@@ -1,0 +1,4 @@
+"El pistolero"			"Stephen King"
+"La llegada de los tres"	"Stephen King"
+"Las tierras baldías"		"Stephen King"
+
