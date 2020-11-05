@@ -3,3 +3,4 @@
 "Las tierras baldías"		"Stephen King"
 "Mago y cristal"		"Stephen King"
 "Lobos del Calla"		"Stephen King"
+"La canción de Susannha"	"Stephen King"
